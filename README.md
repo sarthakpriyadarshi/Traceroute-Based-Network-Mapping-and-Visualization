@@ -30,10 +30,10 @@ git clone git@github.com:sarthakpriyadarshi/Traceroute-Based-Network-Mapping-and
 1. **Backend**:
    - Change Directory: `cd backend`
    - Install dependencies: `pip install -r requirements.txt`
-   - Change directory `cd app`
-   - Run: `python3 main.py`
+   - Run: `python3 app/main.py`
 
 2. **Frontend**:
+   - Change Directory: `cd frontend`
    - Install: `npm install`
    - Run: `npm run build`
 
