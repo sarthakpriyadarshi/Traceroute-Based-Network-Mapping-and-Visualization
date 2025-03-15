@@ -19,6 +19,13 @@ Traceroute (Vercel) - https://traceroute.cyberol.codes/
 - Returns results in structured JSON format for easy integration.
 - Supports cross-platform execution (Linux, Windows, macOS).
 
+## Getting Started
+
+**Clone the repository**
+```shell
+git clone git@github.com:sarthakpriyadarshi/Traceroute-Based-Network-Mapping-and-Visualization.git
+```
+
 ## Setup
 1. **Backend**:
    - Change Directory: `cd backend`
